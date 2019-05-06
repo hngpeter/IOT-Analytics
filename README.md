@@ -3,8 +3,8 @@
 ### IOT ANALYTICS 
 
 IOT ANALYTICS is a fictive company. I am working as a Data Scientist to help one of my clint who is interested to use IOT analytics in their services. 
-Please visit an interactive presentation in the [following link. ](https://prezi.com/view/8QnXqqEz24Vk06pNq2DB/
-)
+**Please visit an interactive presentation in the [following link. ](https://prezi.com/view/8QnXqqEz24Vk06pNq2DB/
+)**
 
 
 
